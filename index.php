@@ -33,6 +33,7 @@
                     <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
                     <li class="nav-item"><a class="nav-link" href="#leaderboard">Leaderboard</a></li>
                     <li class="nav-item"><a class="nav-link" href="#signup">Contact</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">Docs</a></li>
                 </ul>
             </div>
         </div>
@@ -59,7 +60,56 @@
                     </p>
                 </div>
             </div>
-            <img class="img-fluid" src="assets/img/ipad.png" alt="..." />
+            <img class="img-fluid opacity-75" src="assets/img/logo-white.png" alt="..." />
+            <div class="row gx-4 gx-lg-5">
+                <div class="col-md-3 mb-3 mb-md-0">
+                    <div class="card py-4 h-100">
+                        <div class="card-body text-center">
+                            <i class="fas fa-desktop text-primary mb-2"></i>
+                            <h4 class="text-uppercase m-0">Total GPU</h4>
+                            <hr class="my-4 mx-auto" />
+                            <span class="text-action-success-press dark:text-dark-action-success-press">7.6K</span>
+                            <span class="text-[11px] leading-6 text-base-sub-text-color dark:text-dark-base-sub-text-color">GPUs</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 mb-3 mb-md-0">
+                    <div class="card py-4 h-100">
+                        <div class="card-body text-center">
+                            <i class="fas fa-computer text-primary mb-2"></i>
+                            <h4 class="text-uppercase m-0">Total CPU</h4>
+                            <hr class="my-4 mx-auto" />
+                            <span class="text-action-success-press dark:text-dark-action-success-press">5.3K</span>
+                            <span class="text-[11px] leading-6 text-base-sub-text-color dark:text-dark-base-sub-text-color">CPUs</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 mb-3 mb-md-0">
+                    <div class="card py-4 h-100">
+                        <div class="card-body text-center">
+                            <i class="fas fa-memory text-primary mb-2"></i>
+                            <h4 class="text-uppercase m-0">Total RAM</h4>
+                            <hr class="my-4 mx-auto" />
+                            <span class="text-action-success-press dark:text-dark-action-success-press">53K</span>
+                            <span class="text-[11px] leading-6 text-base-sub-text-color dark:text-dark-base-sub-text-color">TB</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 mb-3 mb-md-0">
+                    <div class="card py-4 h-100">
+                        <div class="card-body text-center">
+                            <i class="fas fa-hard-drive text-primary mb-2"></i>
+                            <h4 class="text-uppercase m-0">Total STORAGE</h4>
+                            <hr class="my-4 mx-auto" />
+                            <span class="text-action-success-press dark:text-dark-action-success-press">90</span>
+                            <span class="text-[11px] leading-6 text-base-sub-text-color dark:text-dark-base-sub-text-color">TB</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-3 mb-md-0">
+                <br />
+            </div>
         </div>
     </section>
     <!-- Leaderboard-->
